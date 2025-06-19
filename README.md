@@ -3,13 +3,17 @@
 Bu repo, Kız Başına Veri Analizi Bootcamp kapsamında gerçekleştirdiğim bitirme projesine aittir. Projede gerçek bir veri seti üzerinde veri analizi süreci gerçekleştirilmiştir. Aşağıda proje detaylarını ve yapılan adımları bulabilirsiniz.
 
 🔍 Proje Hakkında
+
 Amaç:
+
 Gerçek bir veri seti üzerinde eksik veri analizi, aykırı değer tespiti, istatistiksel özet çıkarımı ve görselleştirme adımları uygulanarak temel veri analizi becerilerinin geliştirilmesi hedeflenmiştir.
 
 Kullanılan Veri Seti:
+
  🛒 Customer Experience Dataset
 
 📁 Proje Adımları
+
 1. Veri Seti Seçimi & Tanımı
 
 Seçilen veri setindeki değişkenler tanımlandı.
